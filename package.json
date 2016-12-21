@@ -1,0 +1,30 @@
+{
+  "name": "meanstack_application_structrue",
+  "version": "0.0.1",
+  "description": "Basic Mean Stack Application Configuration",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhuvaneshwaranR/basic_mean.git"
+  },
+  "keywords": [
+    "angularjs",
+    "nodejs",
+    "mongodb",
+    "expressjs"
+  ],
+  "author": "Bhuvanesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BhuvaneshwaranR/basic_mean/issues"
+  },
+  "homepage": "https://github.com/BhuvaneshwaranR/basic_mean#readme",
+  "dependencies": {
+    "compression": "^1.6.2",
+    "express": "^4.14.0",
+    "http": "0.0.0"
+  }
+}
